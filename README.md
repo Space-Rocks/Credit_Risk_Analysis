@@ -14,7 +14,7 @@ Results of this analysis, including the balanced accuracy score and precision an
 
 * **Naive random over-sampling & logistic regression**
 
-  ![Naive_oversampling_cm](C:\Users\james\Desktop\Bootcamp\ML Pathway\Credit_Risk_Analysis\images\Naive_oversampling_cm.PNG)
+  ![Naive_oversampling_cm](images\Naive_oversampling_cm.PNG?raw=true "Title")
 
   ![Naive_oversampling_classification_report](C:\Users\james\Desktop\Bootcamp\ML Pathway\Credit_Risk_Analysis\images\Naive_oversampling_classification_report.PNG)
 
